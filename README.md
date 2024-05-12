@@ -1,6 +1,6 @@
 Infrastructure at Mahogany Teeth
 
-https://mahoganyteeth.con
+https://mahoganyteeth.com
 
 <!--
 **AWROBERTS/AWROBERTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
