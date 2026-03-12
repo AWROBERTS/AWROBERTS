@@ -1,6 +1,4 @@
-Infrastructure at Mahogany Teeth
-
-https://mahoganyteeth.com
+Infrastructure and DevOps Engineer. Longtime p5 tinkerer.
 
 <!--
 **AWROBERTS/AWROBERTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
