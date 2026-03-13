@@ -1,4 +1,4 @@
-Infrastructure and DevOps Engineer. Longtime p5 tinkerer.
+Infrastructure and DevOps Engineer. Longtime creative coding tinkerer.
 
 https://awroberts.co.uk
 
